@@ -1,5 +1,7 @@
 # Home-Loan-Data-Analysis
 
+![download (5)](https://github.com/user-attachments/assets/0d8a36a9-0ea3-4d46-8f00-56a95b64e4df)
+
 # Problem Statement:
 
 This project provides an in-depth analysis and visualization of home loan data, aimed at uncovering insights into factors affecting loan approval, interest rates, and borrower behavior. By analyzing key metrics such as income levels, home values, debt-to-income ratios, and loan-to-value ratios, this project helps stakeholders make data-driven decisions regarding loan offerings, interest rate adjustments, and risk management.
