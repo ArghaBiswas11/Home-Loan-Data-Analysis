@@ -82,8 +82,6 @@ Although this project focuses on data exploration, predictive modeling technique
 * **Predictive Modeling:** Implement machine learning models (e.g., logistic regression, decision trees) to predict the likelihood of loan approval based on borrower characteristics.
   
 * **Time-Series Analysis:** Analyze trends over time to predict future loan approval rates, interest rates, and home value trends.
-
-
   
 * **Customer Segmentation:** Perform segmentation analysis to group borrowers into categories based on behavior, which could help in targeting loan products more effectively.
   
